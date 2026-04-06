@@ -1,0 +1,8 @@
+streamlit
+groq
+python-dotenv
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+pdf2image
